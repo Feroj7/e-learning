@@ -1,0 +1,61 @@
+.hero-section{
+    background-color: #F5F5F5;
+}
+.price{
+    color:#385A64;
+}
+.course-title:hover{
+    color:#385A64;
+}
+.ready-section{
+    background-color: #385A64;
+    border-radius: 20px;
+}
+.btnstyle-1{
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    color:#385A64;
+    border:1px solid white;
+}
+.btnstyle-1:hover{
+    background-color:#385A64;
+    color: white;
+    border:1px solid white;
+}
+.btnstyle-2{
+    background-color:#385A64;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    color:white;
+    border:1px solid white;
+}
+.btnstyle-2:hover{
+    background-color:white;
+    color: #385A64;
+    border:1px solid #385A64;
+}
+.enroll-btn{
+    background-color:#385A64;
+    padding: 15px 30px;
+    font-weight: 700;
+    color:white;
+    border:1px solid white;
+}
+/* The animation code */
+@keyframes example {
+    0%   {left:0px; top:0px;}
+    25%  {left:100px; top:0px;}
+    50%  {left:100px; top:50px;}
+    75%  {left:0px; top:50px;}
+    100% {left:0px; top:0px;}
+  }
+  
+  /*apply the animation to image area*/
+  .image-area{
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+  }

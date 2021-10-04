@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #202634;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+a:hover{
+    color:white;
+}
+.menu{
+    margin-left:800px;
+}
