@@ -7,5 +7,5 @@ Features:
 * This is Digital Learning Platform.
 * Here you find digital technology courses.
 * You can enroll them.
-* This Project created using react and react-roter-dom.
+* This Project created using react and react-router-dom.
 
